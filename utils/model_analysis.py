@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import torchvision
 from models.vae import VAE
+from tqdm import tqdm
 
 def visualize_latent_space(model, dataloader, device, latent_dim):
     """
