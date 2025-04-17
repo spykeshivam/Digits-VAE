@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+*.pt
+*.pth
+.DS_Store
+cc/
+data
+digits_vae_env/
