@@ -28,7 +28,7 @@ This project implements a Variational Autoencoder for the MNIST dataset using Py
 
 ```bash
 # Clone the repository
-git clone https://github.com/spykeshivam/mnist-vae.git
+git clone https://github.com/spykeshivam/Digits-vae.git
 cd mnist-vae
 
 # Install requirements
